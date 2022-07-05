@@ -1,0 +1,15 @@
+//META{"name":"PureBlack","description":"Very Black","author":"XM9G","version":"1.0"}*//
+
+.theme-dark {
+	--background-primary: #000000;
+	--background-secondary: #000000;
+	--background-secondary-alt: #000000;
+	--background-tertiary: #000000;
+	--background-accent: #000000;
+	--background-floating: #000000;
+	--background-nested-floating: #000000;
+	--chat-input-container-background: #000000;
+	--scrollbar-auto-scrollbar-color-track: #181818;
+}
+.root {
+	--online-color: #004216
